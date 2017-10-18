@@ -11,3 +11,13 @@ Some more words
 - Previous indent
 
 And back to plain text
+1. Numbered Item
+  1. Sub Numbered Item
+2. Numbered Item
+2. Numbered Item
+
+---
+> Indented paragraph
+Is this still indented?
+
+What about this?
