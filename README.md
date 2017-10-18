@@ -1,9 +1,6 @@
-Added stuff for a pull request
-
-Play with commit
-
-Hello Cloud Gurus
-
+Added stuff for a pull request  
+Play with commit  
+Hello Cloud Gurus  
 # Some stuff in here to talk about testing
 ## Sub Heading
 my test
